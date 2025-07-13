@@ -1,6 +1,8 @@
 # CharsMiditoRobloxPianoPlayer
 WINDOWS ONLY!!!
 
+To download press the green code button then download as zip.
+
 Welcome! This program I made uses AutoHotkey Version 1.1 and Python 3 in order to work. But how?
 
 Autohotkey handles the key presses and the gui, while python handles converting your midi files into CSV files. To do this, however, you must have pip, which usually comes with Python 3. then, you'd want to press Win+R then type cmd to open command prompt. Once you do that type "pip install mido python-rtmidi". Those are midi libraries that are the reason projects like this work in the first place. BTW, to check if you have pip installed do pip --version in cmd prompt.
